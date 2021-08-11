@@ -1,2 +1,2 @@
 # Uri-1016---Distancia
-Repositório CSharp iniciante / Uri 1016 - Distancia
+Repositório C# iniciante / Uri 1016 - Distancia
